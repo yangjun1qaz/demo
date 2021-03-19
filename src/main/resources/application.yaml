@@ -1,0 +1,8 @@
+server:
+  port: 8989
+soul:
+  http:
+    adminUrl: http://localhost:9095
+    contextPath: /order
+    appName: demo
+    zookeeperUrl: localhost:2181  #设置你的zk地址
